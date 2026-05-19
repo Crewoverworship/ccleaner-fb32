@@ -1,4 +1,4 @@
-# 
+# instant CCleaner PC版 扩展 是最佳 CCleaner PC版 扩展，集成 自定义卸载配置 和 缓存清理。安全、可靠、优化，性能最大化。
 
 
 
